@@ -9,7 +9,7 @@
 
 1. Clone the repository.
 
-git clone https://github.com/username/Chezuba.git
+  git clone https://github.com/username/Chezuba.git
 
 2. Install dependencies.
   - bcrypt: ^5.1.0
@@ -27,8 +27,8 @@ git clone https://github.com/username/Chezuba.git
   - MCS : MongoConnectString
   - PORT : Optional
   
-4.Start the development server.
--  `npm start` - Start the production server.
+4. Start the development server.
+  - `npm start` - Start the production server.
 
 ## License
 
