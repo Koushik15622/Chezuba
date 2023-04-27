@@ -9,7 +9,7 @@
 
 1. Clone the repository.
 
-  git clone https://github.com/username/Chezuba.git
+  - git clone https://github.com/username/Chezuba.git
 
 2. Install dependencies.
   - bcrypt: ^5.1.0
